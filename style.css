@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    color: white;
+}
+
+#button {
+    background-color: rgb(32, 32, 32);
+    color: white;
+    cursor: pointer;
+    height: 40px;
+    width: 150px;
+    border: rgb(32, 32, 32);
+    border-radius: 70px;
+}
+
+#profile {
+    width: 200px;
+    margin: 10px;
+    background-color: rgb(32, 32, 32);
+}
+
+#results {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#status{
+    color: black;
+}
+
+img {
+    padding-top: 10px;
+}
